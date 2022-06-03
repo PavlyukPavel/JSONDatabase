@@ -1,1 +1,1 @@
-# JSONDatabase
+# JSONDatabase project https://hyperskill.org/
